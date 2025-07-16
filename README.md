@@ -23,7 +23,7 @@
 
 ## Clone this project
    ```
-   git clone https://github.com/emon51/django-todo-project.git
+   https://github.com/emon51/django-todo-project.git
    ```
 
 ## Demo
